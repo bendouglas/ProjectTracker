@@ -1,0 +1,30 @@
+.task_box {
+	width: 93px;
+	height: 53px;
+	border-radius: 10px;
+	padding: 5px 5px 5px 5px;
+	margin: 2px 2px 2px 2px;
+	text-align: center;
+	text-decoration-color: #A9A9A9;
+	-webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+
+}
+.on {
+	border: 1px solid;
+	border-color: #C8C8C8 ;
+	
+}
+.chris {
+	background-color: 5B9C64;
+}
+.ben {
+	background-color: 01939A;
+}
+
+.column {
+	display: inline-block;
+}
+
